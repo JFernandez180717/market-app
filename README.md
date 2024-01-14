@@ -10,7 +10,7 @@ a new project from GitHub. You can use the following environment variables based
 spring_profiles_active=prod
 PROD_DB_HOST=roundhouse.proxy.rlwy.net
 PROD_DB_PORT=43010
-PROD_DB_NAME=railway
+PROD_DB_NAME=market-app
 PROD_DB_PASSWORD=bgEBcddAfEe555CBFdd-G*D3Ef6-gA6c
 PROD_DB_USERNAME=postgres
 ```
